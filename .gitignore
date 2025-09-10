@@ -37,8 +37,6 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-.npmrc
-
 # turbo
 .turbo
 
@@ -55,3 +53,4 @@ youapp.iml
 # sitemap
 /public/sitemap.xml
 /public/robots.txt
+.npmrc
